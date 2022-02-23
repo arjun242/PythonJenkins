@@ -4,6 +4,7 @@ class account:
             return True
         else:
             return False
+print("webhook testing")
 
 if __name__ == '__main__':
     accVerify = account()
